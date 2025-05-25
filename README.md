@@ -29,6 +29,9 @@ This is what your KubeJS folders should look like.
 >>startup_scripts
 >>>put your startup scripts here
 
+## to do:
+- [ ] add netherite nuggets
+- [X] ~~add diamond nuggets~~
 
 
 
